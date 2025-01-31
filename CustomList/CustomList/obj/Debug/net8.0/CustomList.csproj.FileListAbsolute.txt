@@ -1,0 +1,14 @@
+D:\CustomCSStuff\C-List\.git\CustonList\CustonList\bin\Debug\net8.0\CustomList.exe
+D:\CustomCSStuff\C-List\.git\CustonList\CustonList\bin\Debug\net8.0\CustomList.deps.json
+D:\CustomCSStuff\C-List\.git\CustonList\CustonList\bin\Debug\net8.0\CustomList.runtimeconfig.json
+D:\CustomCSStuff\C-List\.git\CustonList\CustonList\bin\Debug\net8.0\CustomList.dll
+D:\CustomCSStuff\C-List\.git\CustonList\CustonList\bin\Debug\net8.0\CustomList.pdb
+D:\CustomCSStuff\C-List\.git\CustonList\CustonList\obj\Debug\net8.0\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\CustomCSStuff\C-List\.git\CustonList\CustonList\obj\Debug\net8.0\CustomList.AssemblyInfoInputs.cache
+D:\CustomCSStuff\C-List\.git\CustonList\CustonList\obj\Debug\net8.0\CustomList.AssemblyInfo.cs
+D:\CustomCSStuff\C-List\.git\CustonList\CustonList\obj\Debug\net8.0\CustomList.csproj.CoreCompileInputs.cache
+D:\CustomCSStuff\C-List\.git\CustonList\CustonList\obj\Debug\net8.0\CustomList.dll
+D:\CustomCSStuff\C-List\.git\CustonList\CustonList\obj\Debug\net8.0\refint\CustomList.dll
+D:\CustomCSStuff\C-List\.git\CustonList\CustonList\obj\Debug\net8.0\CustomList.pdb
+D:\CustomCSStuff\C-List\.git\CustonList\CustonList\obj\Debug\net8.0\CustomList.genruntimeconfig.cache
+D:\CustomCSStuff\C-List\.git\CustonList\CustonList\obj\Debug\net8.0\ref\CustomList.dll
