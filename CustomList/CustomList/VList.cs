@@ -29,7 +29,7 @@ namespace CustomList
             {
                 for (int i = 0; i < count; i++)
                 {
-                    if (EqualityComparer<T>.Default.Equals(items[i], item)) // ✅ Works for all types!
+                    if (EqualityComparer<T>.Default.Equals(items[i], item)) 
                     {
                         for (int j = i; j < count - 1; j++)
                         {
@@ -38,7 +38,7 @@ namespace CustomList
 
                         if (items[count - 1] != null)
                         {
-                            items[count - 1] = default!; // Suppress the nullability warning
+                            items[count - 1] = default!;
                         }
 
                         count--;
@@ -52,11 +52,11 @@ namespace CustomList
         {
             for (int i = 0; i < count; i++)
             {
-                yield return items[i]; // Yield each element one by one
+                yield return items[i];
             }
         }
 
-        IEnumerator IEnumerable.GetEnumerator() => GetEnumerator(); // ✅ Now works correctly!
+        IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
 
         public T this[int index]
         {
